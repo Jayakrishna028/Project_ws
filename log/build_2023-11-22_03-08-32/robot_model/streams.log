@@ -1,0 +1,27 @@
+[1.192s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[1.223s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[1.245s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model
+[1.250s] -- Install configuration: ""
+[1.250s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch
+[1.250s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/view_robot_model.launch.py
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/Project_model.urdf
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped.urdf
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/project_model.urdf.xacro
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped_1.urdf
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/package_run_dependencies/robot_model
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/parent_prefix_path/robot_model
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.sh
+[1.251s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.dsv
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.sh
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.dsv
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.bash
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.sh
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.zsh
+[1.252s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.dsv
+[1.253s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.dsv
+[1.254s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/packages/robot_model
+[1.254s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig.cmake
+[1.254s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig-version.cmake
+[1.254s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.xml
+[1.254s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model

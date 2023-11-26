@@ -1,0 +1,60 @@
+[0.458s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/src/robot_model -DCMAKE_INSTALL_PREFIX=/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model
+[2.528s] -- The C compiler identification is GNU 11.4.0
+[3.489s] -- The CXX compiler identification is GNU 11.4.0
+[3.696s] -- Detecting C compiler ABI info
+[9.259s] -- Detecting C compiler ABI info - done
+[9.266s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.603s] -- Detecting C compile features
+[11.643s] -- Detecting C compile features - done
+[13.235s] -- Detecting CXX compiler ABI info
+[13.385s] -- Detecting CXX compiler ABI info - done
+[13.394s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[13.394s] -- Detecting CXX compile features
+[13.395s] -- Detecting CXX compile features - done
+[21.424s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[43.604s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[45.769s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[46.493s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[46.570s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[46.889s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[47.222s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[47.435s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[48.246s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[48.323s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[49.185s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[49.267s] -- Found FastRTPS: /opt/ros/humble/include  
+[49.331s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[49.424s] -- Looking for pthread.h
+[49.668s] -- Looking for pthread.h - found
+[49.669s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[49.721s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[49.722s] -- Found Threads: TRUE  
+[59.311s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[60.342s] -- Added test 'flake8' to check Python code syntax and style conventions
+[60.351s] -- Added test 'lint_cmake' to check CMake code style
+[60.357s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[60.361s] -- Added test 'xmllint' to check XML markup files
+[60.395s] -- Configuring done
+[60.402s] -- Generating done
+[60.405s] -- Build files have been written to: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model
+[60.417s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/src/robot_model -DCMAKE_INSTALL_PREFIX=/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model
+[60.420s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[60.476s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[60.514s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model
+[60.525s] -- Install configuration: ""
+[61.264s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/package_run_dependencies/robot_model
+[61.264s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/parent_prefix_path/robot_model
+[61.264s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.sh
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.dsv
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.sh
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.dsv
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.bash
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.sh
+[61.265s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.zsh
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.dsv
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.dsv
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/packages/robot_model
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig.cmake
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig-version.cmake
+[61.266s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.xml
+[61.269s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model

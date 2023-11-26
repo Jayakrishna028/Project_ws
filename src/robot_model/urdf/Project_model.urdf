@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<robot name="simple_bipedal_robot">
+
+  <!-- Base Link -->
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <box size="0.1 0.1 0.1"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <!-- Left Leg -->
+  <joint name="left_hip_joint" type="revolute">
+    <parent link="base_link"/>
+    <child link="left_thigh_link"/>
+    <origin xyz="0 0.05 0" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-0.5" upper="0.5" effort="10" velocity="1"/>
+    <dynamics damping="0.1" friction="0.1"/>
+  </joint>
+
+  <link name="left_thigh_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.02" length="0.4"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint name="left_knee_joint" type="revolute">
+    <parent link="left_thigh_link"/>
+    <child link="left_shin_link"/>
+    <origin xyz="0 0 -0.4" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-0.5" upper="0.5" effort="10" velocity="1"/>
+    <dynamics damping="0.1" friction="0.1"/>
+  </joint>
+
+  <link name="left_shin_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.02" length="0.4"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <!-- Right Leg -->
+  <joint name="right_hip_joint" type="revolute">
+    <parent link="base_link"/>
+    <child link="right_thigh_link"/>
+    <origin xyz="0 -0.05 0" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-0.5" upper="0.5" effort="10" velocity="1"/>
+    <dynamics damping="0.1" friction="0.1"/>
+  </joint>
+
+  <link name="right_thigh_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.02" length="0.4"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint name="right_knee_joint" type="revolute">
+    <parent link="right_thigh_link"/>
+    <child link="right_shin_link"/>
+    <origin xyz="0 0 -0.4" rpy="0 0 0"/>
+    <axis xyz="0 1 0"/>
+    <limit lower="-0.5" upper="0.5" effort="10" velocity="1"/>
+    <dynamics damping="0.1" friction="0.1"/>
+  </joint>
+
+  <link name="right_shin_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.02" length="0.4"/>
+      </geometry>
+    </visual>
+  </link>
+
+</robot>

@@ -1,0 +1,48 @@
+[0.347s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[0.378s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model -- -j12 -l12
+[0.403s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model
+[0.409s] -- Install configuration: ""
+[0.409s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch
+[0.409s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/view_robot_model.launch.py
+[0.409s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf
+[0.409s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped_git_model.urdf
+[0.409s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/Project_model.urdf
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/simple_walker.urdf
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped.urdf
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/project_model.urdf.xacro
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped_leg_assembly.urdf
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped_1.urdf
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/lowerleg.dae
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/outter_ring.STL
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/left_foot_link.STL
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/hipassembly.dae
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/right_foot_link.STL
+[0.410s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/thigh.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/waist_L.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/left_lower_leg_link.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/contact_sensor.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/inner_ring.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/Right_upper_leg_link.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/base_link.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/shank.STL
+[0.411s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/upperleg.dae
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/right_lower_leg_link.STL
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/boom_horizontal.STL
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/meshes/left_upper_leg_link.STL
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/package_run_dependencies/robot_model
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/parent_prefix_path/robot_model
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.sh
+[0.412s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/ament_prefix_path.dsv
+[0.413s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.sh
+[0.413s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/environment/path.dsv
+[0.413s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.bash
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.sh
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.zsh
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/local_setup.dsv
+[0.414s] -- Installing: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.dsv
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/ament_index/resource_index/packages/robot_model
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig.cmake
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/cmake/robot_modelConfig-version.cmake
+[0.414s] -- Up-to-date: /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/package.xml
+[0.415s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_cws/install/test_py:/home/ubuntu/ros2_cws/install/my_py_pkg:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_model
