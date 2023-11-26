@@ -1,0 +1,20 @@
+[0.545s] Invoking command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/src/robot_controls': PYTHONPATH=/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/prefix_override:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controls build --build-base /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/build install --record /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/install.log --single-version-externally-managed
+[0.697s] running egg_info
+[0.698s] writing ../../build/robot_controls/robot_controls.egg-info/PKG-INFO
+[0.698s] writing dependency_links to ../../build/robot_controls/robot_controls.egg-info/dependency_links.txt
+[0.698s] writing entry points to ../../build/robot_controls/robot_controls.egg-info/entry_points.txt
+[0.698s] writing requirements to ../../build/robot_controls/robot_controls.egg-info/requires.txt
+[0.698s] writing top-level names to ../../build/robot_controls/robot_controls.egg-info/top_level.txt
+[0.700s] reading manifest file '../../build/robot_controls/robot_controls.egg-info/SOURCES.txt'
+[0.700s] writing manifest file '../../build/robot_controls/robot_controls.egg-info/SOURCES.txt'
+[0.700s] running build
+[0.700s] running build_py
+[0.701s] running install
+[0.701s] running install_lib
+[0.702s] running install_data
+[0.702s] running install_egg_info
+[0.703s] removing '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls/lib/python3.10/site-packages/robot_controls-0.0.0-py3.10.egg-info' (and everything under it)
+[0.703s] Copying ../../build/robot_controls/robot_controls.egg-info to /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls/lib/python3.10/site-packages/robot_controls-0.0.0-py3.10.egg-info
+[0.704s] running install_scripts
+[0.716s] writing list of installed files to '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/install.log'
+[0.732s] Invoked command in '/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/src/robot_controls' returned '0': PYTHONPATH=/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/prefix_override:/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_controls/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_controls build --build-base /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/build install --record /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/build/robot_controls/install.log --single-version-externally-managed

@@ -1,4 +1,7 @@
 /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/view_robot_model.launch.py
+/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/gazebo_simulation.launch.py
+/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/model_config.rviz
+/home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/launch/rviz_config.rviz
 /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/biped_git_model.urdf
 /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/Project_model.urdf
 /home/ubuntu/JK/ASU_Classes/MAE547/Project_ws/install/robot_model/share/robot_model/urdf/simple_walker.urdf
